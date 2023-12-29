@@ -1,0 +1,16 @@
+jnnjngfjnfdg
+<link rel="stylesheet" href="<div class="col-<link rel="stylesheet" href="f
+<link rel="stylesheet" href="f
+f
+
+
+<i class="fas fa-dice-five fa-xs <i class="fa fa-file-word<div class="form-group">
+  <label for="">describedbyfa-flip-horizontald
+  f
+  describedbyfad
+  fa</label>
+  <input type="file" class="form-control-file" name="" id="" placeholder="" aria-describedby="fileHelpId">
+  <small id="fileHelpId" class="form-text text-muted">Help text</small>
+</div>" aria-hidden="true"></i>"></i>">">-1-12">
+    
+</div>">
